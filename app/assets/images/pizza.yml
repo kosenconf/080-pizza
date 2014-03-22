@@ -1,0 +1,70 @@
+-
+  id: 1
+  name: マルゲリータ
+  descrive: フレッシュトマトとモッツァレラチーズのトッピングに、フレッシュバジルの爽やかな香りがたまらない！！
+  price: 3024
+  image_file_name: 0004575.jpg
+  url: https://www.pizza-la.co.jp/Item.aspx?id=0004575&ListId=pizza
+-
+  id: 2
+  name: ハワイアンデライト
+  descrive: 生ハム＆パイナップルで、気分はトロピカル！！
+  price: 3140
+  image_file_name: 0004544.jpg
+  url: https://www.pizza-la.co.jp/Item.aspx?id=0004544&ListId=pizza
+-
+  id: 3
+  name: スパイシーソーセージ
+  descrive: スパイシーオイルとガーリックの風味が刺激的！！
+  price: 3140
+  image_file_name: 0004558.jpg
+  url: https://www.pizza-la.co.jp/Item.aspx?id=0004558&ListId=pizza
+-
+  id: 4
+  name: バスターズ　クォーター
+  descrive: 個性派の４つの味が集まって、１枚で楽しめるピザ！！
+  price: 3140
+  image_file_name: 0004566.jpg
+  url: https://www.pizza-la.co.jp/Item.aspx?id=0004566&ListId=pizza
+-
+  id: 5
+  name: ソーセージと厚切りベーコンのミートソース
+  descrive: カリッと弾けるソーセージに昔ながらの濃厚ミートソースがクセになる！！
+  price: 3277
+  image_file_name: 0004607.jpg
+  url: https://www.pizza-la.co.jp/Item.aspx?id=0004607&ListId=pizza
+-
+  id: 6
+  name: ペパロニ　ガーリック　モッツァ
+  descrive: ペパロニ、モッツァレラ、トマトの素材が楽しめるシンプルな１枚！！ペパロニとクリーミーなモッツァレラがジューシーなトマトの甘みと酸味を引き立てます。仕上げにガーリックオリーブオイルをかければ風味豊かな味が楽しめます！
+  price: 3277
+  image_file_name: 0004679.jpg
+  url: https://www.pizza-la.co.jp/Item.aspx?id=0004679&ListId=pizza
+-
+  id: 7
+  name: もち明太子ピザ
+  descrive: 地域限定の大人気メニューが和風ピザシリーズとして全国販売！！明太子をたっぷり使用したホクホク明太子ポテトがのりと相性抜群です。
+  price: 3277
+  image_file_name: 0004704.jpg
+  url: https://www.pizza-la.co.jp/Item.aspx?id=0004704&ListId=pizza
+-
+  id: 8
+  name: テリヤキチキン
+  descrive: チキンにしみこんだテリヤキソースがたまらない！！
+  price: 3360
+  image_file_name: 0004541.jpg
+  url: https://www.pizza-la.co.jp/Item.aspx?id=0004541&ListId=pizza
+-
+  id: 9
+  name: ピザーラライト
+  descrive: サラミとソーセージのオーソドックススタイル！！
+  price: 3360
+  image_file_name: 0004546.jpg
+  url: https://www.pizza-la.co.jp/Item.aspx?id=0004546&ListId=pizza
+-
+  id: 10
+  name: モントレー（トマトソース）
+  descrive: たっぷりポテトにマヨネーズがベストマッチ！！
+  price: 3360
+  image_file_name: 0004563.jpg
+  url: https://www.pizza-la.co.jp/Item.aspx?id=0004563&ListId=pizza

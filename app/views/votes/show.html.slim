@@ -1,0 +1,12 @@
+p#notice = notice
+
+p
+  strong Pizza:
+  = @vote.pizza_id
+p
+  strong User:
+  = @vote.user_id
+
+= link_to 'Edit', edit_vote_path(@vote)
+'|
+= link_to 'Back', votes_path

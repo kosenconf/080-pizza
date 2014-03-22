@@ -1,0 +1,11 @@
+.container
+  .pizza-container
+    .row
+      - @pizzas.each do |pizza|
+        = form_for @vote, remote: true do |form|
+          = form.hidden_field :pizza_id, value: pizza["id"]
+          .pizza-panel.col-md-2
+            .image
+              input(type="image" src="/assets/pizza/#{pizza['image_file_name']}")
+            .name
+              = pizza["name"]
