@@ -43,8 +43,12 @@ end
 # Use debugger
 # gem 'debugger', group: [:development, :test]
 
+gem 'slim-rails'
+
 group :development do
   gem 'sqlite3'
+  gem 'awesome_print'
+  gem 'pry'
 end
 
 group :production do
